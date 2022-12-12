@@ -1,0 +1,4 @@
+install pyhton3
+install pip3 
+install flask
+install requests
